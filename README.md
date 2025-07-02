@@ -27,4 +27,3 @@
 - Quick to learn new tools & frameworks
 
 ## 📬 Open to remote/hybrid React/Next.js opportunities
-📧 **Email**: [sd91pl@gmail.com](mailto:sd91pl@gmail.com)
