@@ -1,7 +1,7 @@
 # React / Next.js Developer
 
-🔗 **Portfolio**: [https://sd91pl.github.io/info/](https://sd91pl.github.io/info/)  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/sd91pl/](https://www.linkedin.com/in/sd91pl/)
+🔗 **Portfolio**: sd91pl.github.io/info/](https://sd91pl.github.io/info/)  
+🔗 **LinkedIn**: [linkedin.com/in/sd91pl/](https://www.linkedin.com/in/sd91pl/)
 
 ## 🧰 Tech Stack
 
