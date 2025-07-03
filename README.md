@@ -24,6 +24,6 @@
 - Analytical problem-solver
 - Passionate about modular, scalable, DRY code
 - Full-cycle development (design → code → deploy)
-- Quick to learn new tools & frameworks
+- Focus on Responsive Web Design and UI/UX
 
 ## 📬 Open to remote/hybrid React/Next.js opportunities
