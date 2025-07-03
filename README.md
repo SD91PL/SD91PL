@@ -3,7 +3,7 @@
 🔗 **Portfolio**: [sd91pl.github.io/info/](https://sd91pl.github.io/info/)  
 🔗 **LinkedIn**: [linkedin.com/in/sd91pl/](https://www.linkedin.com/in/sd91pl/)
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
 ### Core
 - React.js, Next.js, TypeScript, Redux Toolkit, Vite.js, styled-components, CSS modules, Tailwind CSS
