@@ -1,6 +1,6 @@
 # React / Next.js Developer
 
-🔗 **Portfolio**: [sd91pl.github.io/info/](https://sd91pl.github.io/info/)  
+🔗 **More →** [sd91pl.github.io/info/](https://sd91pl.github.io/info/)  
 
 Analytical problem-solver<br>Passionate about modular, scalable, DRY code<br>Full-cycle development (design → code → deploy)<br>Focus on Responsive Web Design and UI/UX
 
