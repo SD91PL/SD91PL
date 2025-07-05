@@ -2,7 +2,7 @@
 
 🔗 **More →** [sd91pl.github.io/info/](https://sd91pl.github.io/info/)  
 
-Analytical problem-solver<br>Proponent of modular, scalable, DRY code<br>Full-cycle development (design → code → deploy)<br>Focus on Responsive Web Design and UI/UX
+Analytical problem-solver<br>Proponent of modular, scalable, DRY code<br>Full-cycle development<br>(Design → Code → Deploy)<br>Focused on UI/UX with Responsive Design
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1063454745639010394) 
