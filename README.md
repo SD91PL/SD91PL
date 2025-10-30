@@ -3,11 +3,11 @@
 [![View Portfolio](https://img.shields.io/badge/personal%20website-31a8ff?style=for-the-badge&logoColor=white&label=)](https://sd91pl.github.io/info/)
 
 
-Analytical problem-solver<br>Proponent of modular, scalable, DRY code<br>Full-cycle development<br>(Design → Code → Deploy)<br>Focused on UI/UX with Responsive Design
+Analytical problem-solver<br>Proponent of modular, scalable, DRY code<br>Full-cycle development (Design → Code → Deploy)<br>Focused on UI/UX with Responsive Design
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1063454745639010394) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sd91pl)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1063454745639010394) 
 [![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sd91pl@gmail.com) 
 
 # 💻 Tech Stack:
