@@ -3,7 +3,7 @@
 [![View Portfolio](https://img.shields.io/badge/personal%20website-31a8ff?style=for-the-badge&logoColor=white&label=)](https://sd91pl.github.io/info/)
 
 
-Analytical problem-solver<br>Proponent of modular, scalable, DRY code<br>Full-cycle development (Design → Code → Deploy)<br>Focused on UI/UX with Responsive Design
+Analytical problem-solver<br>Proponent of modular, scalable, DRY code<br>Focused on UI/UX with Responsive Design
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sd91pl)
