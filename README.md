@@ -3,7 +3,7 @@
 [![View Portfolio](https://img.shields.io/badge/personal%20website-31a8ff?style=for-the-badge&logoColor=white&label=)](https://sd91pl.github.io/info/)
 
 
-Analytical, solution-oriented __React Frontend Developer__ with a strong focus on __UI/UX__ and responsive design. <br>
+Solution-oriented __React Frontend Developer__ with a strong focus on __UI/UX__ and responsive design. <br>
 Passionate about creating modern, scalable web applications using __React__, __Next.js__, and __TypeScript__. <br>
 Special attention is paid to performance optimization, __SEO__, clean architecture, and maintainable code. <br>
 
