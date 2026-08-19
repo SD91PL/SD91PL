@@ -1,6 +1,6 @@
 # React | Next.js Developer
 
-[![View Portfolio](https://img.shields.io/badge/portfolio-31a8ff?style=for-the-badge&logoColor=white&label=)](https://sd91pl.github.io/info/)
+[![View Portfolio](https://img.shields.io/badge/Portfolio%20Site-31a8ff?style=for-the-badge&logoColor=white&label=)](https://sd91pl.github.io/info/)
 
 
 Solution-oriented __React Frontend Developer__ with a strong focus on __UI/UX__ and responsive design. <br>
